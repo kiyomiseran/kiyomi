@@ -248,7 +248,7 @@ module.exports = {
         logoColor: "#2c3e50",
 
         //样式控制面板字体占位符，如果是国内用户，请使用中文
-        showFont: "程",
+        showFont: "清",
 
         //首页中间hero图片地址
         heroImg: '/avatar.jpg',
@@ -272,13 +272,13 @@ module.exports = {
         socials: socials,
 
         //logo旁文字 默认值为Aurora
-        logoTitle: "Aurora",
+        logoTitle: "Kiyomi",
 
         //貌似没用的配置项┭┮﹏┭┮
         headTitle: "this is headTitle",
 
         //站点描述
-        description: "vuepress-theme-Aurora是一款简洁，美观，功能强大的静态主题",
+        description: "kiyomiseranの秘密基地",
 
         //站点关键词，在后续版本中，还需优化 请使用英文状态下的逗号','隔开
         keyword: "vuepress主题,vuepress theme,生活琐事,二次元博客,简约博客,博客主题,静态主题",
@@ -468,8 +468,7 @@ module.exports = {
 
         //页脚信息，支持HTML，这是一个数组
         footer: [
-            "Copyright © by qsyyke All Rights Reserved.",
-            "<a target='_blank' href='http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=53060202000142' style='display:inline-block;text-decoration:none;height:20px;line-height:20px;'><img src='' style='float:left;'/><p style='float:left;height:20px;line-height:20px;margin: 0px 0px 0px 5px;'>滇公网安备 53060202000142号</p></a>",
+            "Copyright © by kiyomiseran All Rights Reserved.",
         ],
 
         //是否显示页脚，控制全局
@@ -482,7 +481,7 @@ module.exports = {
         isShowRunTime: true,
 
         //网站开始时间，请按照以下格式进行
-        startRunTime: "8/7/2021 12:22:00",
+        startRunTime: "3/13/2022 14:02:00",
 
         //网站运行时间前缀
         prefixRuntime: "小破站已运行",
@@ -599,17 +598,6 @@ module.exports = {
 
         //首页背景图片数组，考虑到使用随机图片，打开网站速度变慢，所以移除随机图片，使用自己设置的图片链接
         homeWps: [
-            "/bg/404901.png",
-            "/bg/734386.png",
-            "/bg/5332.png",
-            '/bg/2.jpg',
-            '/bg/3.jpg',
-            '/bg/4.jpg',
-            '/bg/5.jpg',
-
-            "https://w.wallhaven.cc/full/v9/wallhaven-v9v3r5.jpg",
-            "https://w.wallhaven.cc/full/z8/wallhaven-z8dg9y.png",
-            "https://w.wallhaven.cc/full/6o/wallhaven-6op786.jpg",
             "https://w.wallhaven.cc/full/8o/wallhaven-8oky1j.jpg",
             "https://w.wallhaven.cc/full/pk/wallhaven-pkvw9p.jpg",
             "https://w.wallhaven.cc/full/9m/wallhaven-9m7kwd.png"
@@ -633,7 +621,7 @@ module.exports = {
 
         //侧边栏配置
         //github地址
-        githubUrl: "https://github.com/qsyyke/vuepress-theme-aurora",
+        githubUrl: "https://github.com/kiyomiseran/kiyomi",
 
         //最新文章数量，默认为6
         latestPageSize: 6,
@@ -776,7 +764,7 @@ module.exports = {
         homeTopText: '置顶',
 
         //侧边栏一句话描述
-        sidebarDesc: '喜欢动漫，Coding目前是一名大三学生,CS专业,坐标西南边陲',
+        sidebarDesc: 'きよみせらん，学生，坐标东南沿海',
 
         /*
         * 下面的是v1.13.0版本的配置

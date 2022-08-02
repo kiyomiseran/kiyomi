@@ -2,43 +2,37 @@ module.exports = {
     //这里是将config.js中的友情链接部分单独提取出来，方便配置
     friendLinks: [
         {
-            title: '主题作者',
+            title: 'link',
             links: [
                 {
                     //网站标题
                     title: "undefined",
 
                     //站点链接
-                    url: "https://aurora.xcye.xyz",
+                    url: "https://aurora.xcye.xyz/",
 
                     //站点logo
                     logo: "/avatar.webp",
 
                     //站点描述
                     describe: "人生若只是初见,何事秋风悲画扇",
-                    cover: '/friendimg/myself.png'
-                }
-            ]
-        },
-        {//开头
-            title: '大佬',
-            links: [
+                    cover: '/friendImg/image-20211106100103898.png?x-oss-process=style/pictureProcess1'
+                },
                 {
-                    //网站标题
-                    title: "another blog",
-
-                    //站点链接
-                    url: "https://kiyomiseran.github.io",
-
-                    //站点logo
+                    title: "kiyomiseran",
+                    url: "http://kiyomiseran.github.io",
                     logo: "/favicon.ico",
-
-                    //站点描述
-                    describe: "人生若只是初见,何事秋风悲画扇",
-                    cover: '/friendimg/myself.png'
+                    describe: "welcome",
+                    cover: ''
+                },
+                {
+                    title: "mercyzz",
+                    url: "http://mercyzzcn.github.io",
+                    logo: "/mercyzz.png",
+                    describe: "mercyzz",
+                    cover: ''
                 },
             ]
-        },//结束
-    ]//最后两行收尾
+        },
+    ]
 }
-//格式同上
