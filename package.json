@@ -21,5 +21,19 @@
     "vuepress-plugin-coze": "1.8.0",
     "vuepress-plugin-player": "latest",
     "vuepress-theme-aurora": "1.13.1"
-  }
+  },
+  "directories": {
+    "doc": "docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kiyomiseran/kiyomi.git"
+  },
+  "keywords": [
+    "kiyomiseran0929"
+  ],
+  "bugs": {
+    "url": "https://github.com/kiyomiseran/kiyomi/issues"
+  },
+  "homepage": "https://github.com/kiyomiseran/kiyomi#readme"
 }
