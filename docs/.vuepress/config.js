@@ -103,7 +103,7 @@ module.exports = {
                         // },
 
                         {
-                            path: '/song/2.mp3',
+                            path : '/song/2.mp3',
                             songName: 'sdf'
                         },
                         {
@@ -188,7 +188,7 @@ module.exports = {
     theme: 'aurora',
 
     //站点title
-    title: "I do not follow,i lives is always all you want",
+    title: "I do not give a fuck",
 
     //设置站点语言
     lang: 'zh-CN',
@@ -304,7 +304,7 @@ module.exports = {
                     "喜欢技术(但啥也不会",
                     "有点懒",
                     "广泛的兴趣爱好",
-                    "喜欢的番有《Darling in the FRANXXx》,《铁甲城的卡巴内瑞》,《鬼灭之刃》,《关于我转生变成史莱姆这档事》",
+                    "喜欢的番有《Darling in the FRANXXx》,《铁甲城的卡巴内》,《鬼灭之刃》,《关于我转生变成史莱姆这档事》",
                     "喜欢小说，最喜欢的小说《爵迹》,《幻城》,《斗罗大陆》",
                 ],
                 tag: [
@@ -420,19 +420,23 @@ module.exports = {
                         score: 80,
                     },
                     {
+                        name: "Squad",
+                        score: 80,
+                    },
+                    {
                         name: "地平线5",
                         score: 76,
                     },
                     {
-                        name: "赛博朋克2077",
+                        name: "Titan Fall 2",
                         score: 74,
                     },
                 ],
             },
             {
-                title: "关于主题",
+                title: "do not give up",
                 describe: [
-                    "(此处引用主题作者原话,文中“我”即为主题作者)theme-ccds主题是我自己独立开发，是一款基于vuepress，对默认主题进行了大量修改，我以前使用的是wordpress的博客主题，但是我对PHP不了解，想改成自己想要的主题，太难了，最近在学vue，正好看到可以使用vuepress来搭建 博客，就将默认主题改成现在这个样，并且喜欢vuepress的最主要原因是，它可以 直接将本地的markdown文档进行编译部署，我原来博客，我记了几个月的笔记，不太想再慢慢从本地复制到WordPress进行发布，以至于博客几个月没有发布文章了，虽然有技术可以解决，但还是喜欢vuepress，简直是懒癌福音，如果你喜欢的话，可以在我的GitHub进行下载，使用文档可以查看https://aurora.xcye.xyz，该主题已将所有的配置进行抽离，你现在看到的所有信息，都抽离在了一个配置文件中，但是目前还并不能做到开箱即用，如果使用的人多了，我可以进行修改，并且我自己也写了几个组件，包括文章页面看到的顶部图片，友情链接，海报分享功能等等 ，可以在你想使用的地方，直接使用这些组件就可以，该主题我加入了vuex，对前端不太了解，有很多css不对的地方，请大家多多包涵，Thanks♪(･ω･)ﾉ",
+                    "(苍穹之下，仰望繁星",
                 ],
             },
         ],
@@ -484,7 +488,7 @@ module.exports = {
         startRunTime: "3/13/2022 14:02:00",
 
         //网站运行时间前缀
-        prefixRuntime: "小破站已运行",
+        prefixRuntime: "小破站在太阳系航行了",
 
         //公告，是一个数组，支持图片，HTML
         message: message,
